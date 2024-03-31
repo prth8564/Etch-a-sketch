@@ -1,0 +1,13 @@
+.Supercontainer{
+    display: flex;
+    flex-direction: column;
+    border-style: dashed;
+    border-color: green;
+    width:436px;
+    height:500px;
+}
+.RowContainer{
+    display:flex;
+    
+    
+}
